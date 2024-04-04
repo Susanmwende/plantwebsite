@@ -1,0 +1,124 @@
+.nav{
+
+    text-decoration: none;
+    padding-left: 35px;
+    padding-right: 25px;
+}
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.logo a{
+    font-size: 40px;
+    font-weight: 400;
+    color: #000;
+    text-decoration: none;
+}
+li a{
+    font-size: 18px;
+    font-weight:bold ;
+    margin-right: 95px;
+    text-decoration: none;
+    color: #000;
+
+}
+li{
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+}
+span{
+    font-size: xx-large;
+    color:green;
+}
+#texton{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    left: 30%;
+    top: 20%;
+    padding: 0.5rem;
+
+}
+#Terradium{
+    display: flex;
+}
+.img3{
+    width: 400px;
+    height:350px;
+}
+#forpencilp{
+    display: flex;
+    display: grid;
+}
+#grow{
+    display: flex;
+}
+
+
+
+#Sale{
+    display: flex;
+    gap:15% ;
+
+}
+#cacti{
+    display: flex;
+    gap: 5%;
+}
+#Houseplant{
+    display: flex;
+    gap: 8%;
+    
+}
+#mains{
+    display: flex;
+    gap: 8%;
+}
+.cact{
+    width: 300px;
+    height: 350px;
+}
+#all{
+    display: flex;
+    gap: 30px;
+    padding-left: %;
+}
+#groups{
+    display: flex;
+}
+.vases{
+    width:350px ;
+    height:300 ;
+}
+#group1{
+    display: flex;
+    gap: 15px;
+    
+}
+#group2{
+    display: flex;
+     
+}
+.vas{
+    /* width: 600px;
+    height: 500px; */
+}
+#group3{
+    display: flex;
+}
+#group4{
+    display: flex;
+}
+#group5{
+    display: flex;
+}
+#picss{
+    display: flex;
+    gap: 15%;
+}
+.leaf{
+    width: 100%;
+}

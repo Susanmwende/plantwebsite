@@ -4,6 +4,11 @@
     padding-left: 35px;
     padding-right: 25px;
 }
+
+
+#body{
+    
+}
 .navdiv{
     display: flex;
     align-items: center;
@@ -28,6 +33,21 @@ li{
     list-style: none;
     display: inline-block;
     text-decoration: none;
+}
+.navs{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    display: inline - block;
+    background-color: #65A15B;
+
+}
+.welcome{
+    text-decoration: none;
+}
+.navs a{
+    text-decoration: none;
+    color: #000;
 }
 span{
     font-size: xx-large;
@@ -97,7 +117,7 @@ span{
 }
 .vases{
     width:350px ;
-    height:300 ;
+    height:300px ;
 }
 #group1{
     display: flex;
@@ -235,4 +255,214 @@ span{
 }
 #criss{
     text-align: center;
+}
+.butt1{
+    padding: 15px 18px;
+    
+    color:gray;
+    font-weight: 600;
+    border-radius: 5px;
+}
+.cast{
+    display: flex;
+    padding-left: 20%;
+}
+@media screen and (min-width:280px) and (max-width: 460px){
+    .nav{
+
+        text-decoration: none;
+        padding-left: 35px;
+        padding-right: 25px;
+        display: grid;
+    }
+    .navdiv{
+        display: grid;
+        align-items: center;
+        justify-content: space-between;
+
+}
+#footer{
+    display: grid;
+    gap: 0px;
+}
+#album{
+    padding-left: 0%;
+    
+}
+.cast{
+    display: grid;
+    padding-left: 0%;
+    margin-bottom: 0px;
+    gap: 30px;
+}
+#Blog{
+    display: grid;
+    margin-left: 1px;
+    font-size: xx-small;
+    gap: px;
+
+
+}
+#cactius{
+    display: grid;
+    gap: 0%;
+
+}
+
+.cacs{
+    width: 250px; 
+    height: 500px;
+    margin-top: 10px;
+}
+#group5{
+    display: grid;
+    margin-left: 0px;
+}
+#group4{
+    display: grid;
+}
+#group3{
+    display: grid;
+}
+#living {
+    position: absolute;
+    transform: translate(-20%,-40%);
+    text-align: center;
+    left: 10%;
+    padding: 0.2rem;
+    margin-top: -190px;
+    gap: 0;
+    
+}
+.butt1{
+    padding: 15px 18px;
+    
+    color:gray;
+    font-weight: 600;
+    border-radius: 5px;
+}
+.butt{
+    padding: 7px 20px;
+    background-color: #6FA720;
+    color: aliceblue;
+    font-weight: 600;
+    border-radius: 5px;
+}
+.leaf{
+    width: 270px;
+    height: 280px;
+    margin-left: 0px;
+}
+#bottle{
+    padding-top: 2%;
+}
+.style{
+    width: 265px;
+
+}
+#picss{
+    display: grid;
+    gap: 15%;
+}
+#group2{
+    display: grid;
+     
+}
+#group1{
+    display: grid;
+}
+.vas{
+    width: 200px;
+    width: 250px;
+}
+#all{
+    display: grid;
+    padding-left: 10px;
+}
+#Sale{
+    display: grid;
+    gap:0;
+    
+
+}
+#grow{
+    display: grid;
+}
+#forpencilp{
+    display: grid;
+    display: grid;
+    background-color: azure;
+}
+#mains{
+    display: grid;
+    gap: 0;
+}
+#Houseplant{
+    display: grid;
+    
+    
+}
+#Terradium{
+    display: grid;
+}
+#texton{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    left: 40%;
+    top: 10%;
+    padding: 0.5rem;
+    margin-top: 400px;
+
+}
+.edits{
+    width: 200px;
+    height: 250px;
+}
+.navdiv{
+    display: grid;
+    align-items: center;
+    
+    
+}
+.navs{
+    display: grid;
+    align-items: center;
+    justify-content: space-between;
+    display: inline - block;
+    background-color: #65A15B;
+
+}
+.vases{
+    width: 200px;
+    height: 0px;
+
+}
+.img3{
+    width: 200px;
+    
+}
+.edit{
+    width: 200px;
+
+}
+.cact{
+    width:200px ;
+    width: 150px;
+}
+#bottle{
+    padding-top: 5%;
+    margin-left: 0px;
+    font-size: smaller;
+}
+#criss{
+    text-align: center;
+    font-size: x-small;
+}
+#tree{
+    margin-left: 0px;
+    font-size: small;
+}
+
+
 }
